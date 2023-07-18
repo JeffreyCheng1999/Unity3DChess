@@ -1,1 +1,0 @@
-When inserting the project into the unity, you will notice that there is an empty scene. it is because when you open a project in Unity and Unity has to recreate the Library, it might be that the empty default scene gets loaded. Just double click on your Scenes folder and open your saved scene. 
