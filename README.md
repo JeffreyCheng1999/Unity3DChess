@@ -35,7 +35,7 @@ Pawn moves
 #
 Queen moves
 -
-![](https://i2.paste.pics/d103d71508b57206bac334449afbf4b1.png)
+![](https://paste.pics/3b8e35319b124b096300c068e2d67e10)
 
 #
 Bishop moves
