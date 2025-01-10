@@ -45,4 +45,4 @@ Bishop moves
 #
 Rook moves
 -
-![](https://i2.paste.pics/c9bfe1e569389a7e7a6b78be24c52824.png)
+![](https://i2.paste.pics/3bc678effb7a405546af27772a807632.png?rand=3vcrTxbKgk)
